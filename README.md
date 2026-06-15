@@ -216,7 +216,7 @@ A structured system to manage and organize duty allocations efficiently, simplif
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=patelhet0507&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=patelhet0507&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
 
 </div>
 
