@@ -226,9 +226,18 @@ A structured system to manage and organize duty allocations efficiently, simplif
 
 ---
 
-## 📈 Contribution Activity
+## ⚡ Development Velocity & Commit Cadence
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelhet0507&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<div align="center">
+
+| Core Framework | Project Scope Execution | Deployment Runtime Pipeline | Velocity |
+| :--- | :--- | :--- | :--- |
+| **Next.js / React** | Dynamic Client Interfaces & State Synchronization | Vercel Serverless Edge | 🔥 Active |
+| **FastAPI / Django** | Robust REST API Endpoints & Request Validation Middleware | Local Docker Layers / Cloud Run | 🔄 High |
+| **PostgreSQL** | Relational Schemas, Primary Key Indexing & Queries | Isolated Cloud Instances | ⚡ Consistent |
+| **Firebase Services** | User Identity Authentication & Direct Client CLI Routing | Firebase Cloud Production Hosting | 🚀 Production Ready |
+
+</div>
 
 ---
 
