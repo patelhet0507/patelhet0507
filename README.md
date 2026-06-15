@@ -6,7 +6,7 @@
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Compututer%20Science%20%26%20Applied%20Math-00D9FF?style=for-the-badge&labelColor=0D1117)
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Applied%20Math-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![University](https://img.shields.io/badge/Adani%20University-2025%E2%80%932030-00D9FF?style=for-the-badge&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-00D9FF?style=for-the-badge&labelColor=0D1117)
 
