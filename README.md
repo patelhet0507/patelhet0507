@@ -241,21 +241,18 @@ A structured system to manage and organize duty allocations efficiently, simplif
 
 ```yaml
 Learning:
-  - Advanced Django & Flask
-  - FastAPI for high-performance APIs
-  - PostgreSQL database design
-
+  - Core algorithmic structures & data relations in Python/C
+  - Basics of API endpoint configuration using FastAPI
+  - Relational database schema indexing in PostgreSQL
 Building:
-  - Full-stack apps with React & Next.js
-  - Modern UIs with Tailwind CSS & Vite
-
+  - Clean client layouts using standard framework templates
+  - Modular single-page interfaces with Next.js
 Exploring:
-  - Cloud-native deployment workflows
-  - Scalable backend architectures
-
-Open To:
-  - Internships & collaborative projects
-  - Full-stack & Cloud Computing roles
+  - Foundational scripting mechanics & local version workflows
+  - Introductory virtualization layers & deployment setups
+Open_To:
+  - Student developer internships
+  - Open-source tracking tasks
 ```
 
 ---
