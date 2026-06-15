@@ -40,6 +40,7 @@ I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing En
 - 🔬 **Academic & Student Research Modules** — Eager to assist in software prototyping, algorithmic logic verification, or data layout structures.
 - 🤝 **Open-Source Collaborations** — Enthusiastic about joining beginner-friendly student codebases, fixing code documentation, or polishing user interfaces.
 - 💬 **Technical Guidance** — Looking to connect with developers, seniors, and industry mentors to study clean architecture patterns.
+
 ---
 
 ## 🧠 Tech Stack
@@ -215,7 +216,7 @@ A structured system to manage and organize duty allocations efficiently, simplif
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=patelhet0507&theme=shadow-blue&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=patelhet0507&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </div>
 
