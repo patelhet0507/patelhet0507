@@ -36,7 +36,7 @@ I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing En
 - 🌱 Currently strengthening skills in Python frameworks, modern frontend tooling, and cloud-native development
 
 ### 🎯 Open To
-- Internship opportunities in Full-Stack Development & Cloud Computing
+- Internship opportunities in Development roles and Research roles 
 - Collaborative and open-source projects
 - Conversations with developers and mentors
 
