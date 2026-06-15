@@ -97,7 +97,7 @@ A full-stack, cloud-hosted SaaS platform for property and tenant management — 
 <summary><b>🛒 ShopEase — Full-Stack E-Commerce Platform</b></summary>
 <br/>
 
-Adani University
+Adani University &nbsp;·&nbsp; 🌐 [Live Demo](https://shop-ease-steel.vercel.app)
 
 A production-ready e-commerce application built from the ground up, focused on a seamless shopping experience with an emphasis on performance, scalability, and clean code practices.
 
