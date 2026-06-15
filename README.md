@@ -212,11 +212,15 @@ A structured system to manage and organize duty allocations efficiently, simplif
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Dev Metrics Matrix
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=patelhet0507&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
+| Core Track | Focus Alignment | Core Toolset |
+| :--- | :--- | :--- |
+| 💻 **Full-Stack Development** | Component Logic, API Routes & Database Schemas | `Next.js` · `React` · `FastAPI` · `Django` |
+| ☁️ **Cloud Infrastructure** | Serverless Architecture & Hosting Configurations | `Firebase` · `Git Workflow` · `CI/CD Basics` |
+| 🔬 **Applied Mathematics** | Algorithmic Engineering & Structural Data Relations | `Python` · `Data Models` · `Logical Constraints` |
 
 </div>
 
