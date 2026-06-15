@@ -36,7 +36,7 @@ I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing En
 - 🌱 Currently strengthening skills in Python frameworks, modern frontend tooling, and cloud-native development
 
 ### 🎯 Open To
-- Internship opportunities in Development roles and Research roles 
+- Internship opportunities in Full-Stack Development & Cloud Computing
 - Collaborative and open-source projects
 - Conversations with developers and mentors
 
@@ -68,13 +68,27 @@ I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing En
 <summary><b>🏠 Rental Management SaaS Platform</b></summary>
 <br/>
 
-A full-stack rental management SaaS platform for property and tenant management, deployed as a secure, cloud-hosted web application with user authentication and centralized data handling.
+**May 2026 – Jun 2026** &nbsp;·&nbsp; Adani University &nbsp;·&nbsp; 🌐 [Live Demo](https://rental-module.firebaseapp.com)
 
-| Stack | Timeline | Key Features |
-|---|---|---|
-| JavaScript, HTML5, CSS3, Firebase (Auth, Hosting, CLI), Git & GitHub | May 2026 – Jun 2026 | Secure auth via Firebase, cloud hosting & deployment, configured routing & rewrite rules, centralized data handling |
+A full-stack, cloud-hosted SaaS platform for property and tenant management — manage properties, tenants, agreements, and billing all from one dashboard.
 
-🔗 [Repository](https://github.com/patelhet0507) • 🌐 [Live Demo](https://rental-module.firebaseapp.com/)
+**Highlights**
+- Built the frontend landing page and management dashboard with HTML, CSS, and JavaScript
+- Implemented secure user authentication and access control with Firebase Authentication
+- Integrated Firebase Hosting & CLI for cloud deployment, with custom routing and rewrite rules
+- Designed the application structure for scalable, server-side interactions
+- Deployed end-to-end to a production environment, gaining hands-on experience with serverless infrastructure and deployment pipelines
+
+**Tech Stack**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00D9FF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00D9FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00D9FF)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=00D9FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D9FF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D9FF)
+
+🔗 [Repository](https://github.com/patelhet0507)
 
 </details>
 
@@ -82,11 +96,23 @@ A full-stack rental management SaaS platform for property and tenant management,
 <summary><b>🛒 ShopEase — Full-Stack E-Commerce Platform</b></summary>
 <br/>
 
-A production-ready e-commerce application built from the ground up with secure authentication, dynamic product management, real-time cart operations, order tracking, and an API-driven architecture.
+Adani University
 
-| Stack | Key Features |
-|---|---|
-| Next.js, React.js, FastAPI, PostgreSQL | Secure auth & authorization, product catalog & category management, cart & checkout workflows, PostgreSQL + FastAPI APIs, responsive Next.js UI |
+A production-ready e-commerce application built from the ground up, focused on a seamless shopping experience with an emphasis on performance, scalability, and clean code practices.
+
+**Highlights**
+- Secure user authentication and authorization
+- Product catalog and category management
+- Shopping cart and checkout workflows
+- PostgreSQL database integration with FastAPI-powered backend APIs
+- Responsive, modern UI built with Next.js
+
+**Tech Stack**
+
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00D9FF)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D9FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF)
 
 🔗 [Repository](https://github.com/patelhet0507)
 
@@ -96,11 +122,19 @@ A production-ready e-commerce application built from the ground up with secure a
 <summary><b>🗄️ Multi-User Database System with Admin Access</b></summary>
 <br/>
 
-A system where each user receives an individual database upon login, ensuring data isolation and security, with an admin role for centralized monitoring of all user data.
+**Oct 2025 – Dec 2025**
 
-| Stack | Timeline | Key Features |
-|---|---|---|
-| Firebase, Database Systems | Oct 2025 – Dec 2025 | Role-based access control (Admin vs. User), secure data separation across users, centralized admin monitoring dashboard |
+A system where each user gets an individual database created on login, ensuring data isolation and security — plus an admin role with centralized access to all user data.
+
+**Highlights**
+- Role-based access control (Admin vs. User)
+- Secure data separation across users
+- Centralized admin monitoring dashboard
+
+**Tech Stack**
+
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=00D9FF)
+![Database Design](https://img.shields.io/badge/Database%20Design-0D1117?style=flat-square&logoColor=00D9FF)
 
 🔗 [Repository](https://github.com/patelhet0507)
 
@@ -110,11 +144,21 @@ A system where each user receives an individual database upon login, ensuring da
 <summary><b>🎯 FocusFlow — Productivity & Focus Management System</b></summary>
 <br/>
 
-A productivity and time management system helping students stay focused and consistent, combining structured scheduling with focus-based techniques to reduce procrastination.
+Adani University &nbsp;·&nbsp; Status: In Development
 
-| Stack | Status | Key Features |
-|---|---|---|
-| HTML, CSS, JavaScript | In Development | Task & schedule management, Pomodoro-based focus timer, progress tracking & insights, clean distraction-free UI |
+A productivity and time management system designed to help students stay focused, organized, and consistent — tackling real problems like procrastination, poor time management, and lack of consistency in studies.
+
+**Highlights**
+- Task and schedule management for daily planning
+- Pomodoro-based focus timer to enhance productivity
+- Progress tracking and performance insights
+- Clean, distraction-free user interface
+
+**Tech Stack**
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00D9FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00D9FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00D9FF)
 
 🔗 [Repository](https://github.com/patelhet0507)
 
@@ -124,11 +168,20 @@ A productivity and time management system helping students stay focused and cons
 <summary><b>📋 Duty Master Performa 2024–25</b></summary>
 <br/>
 
+**Oct 2024 – Dec 2024** &nbsp;·&nbsp; Anant School of Excellence
+
 A structured system to manage and organize duty allocations efficiently, simplifying scheduling and improving visibility of assigned tasks.
 
-| Timeline | Key Features |
-|---|---|
-| Oct 2024 – Dec 2024 | Clear duty assignment tracking, organized data handling, improved operational efficiency |
+**Highlights**
+- Clear duty assignment tracking
+- Organized data handling
+- Improved operational efficiency
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00D9FF)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00D9FF)
 
 🔗 [Repository](https://github.com/patelhet0507)
 
@@ -150,7 +203,7 @@ A structured system to manage and organize duty allocations efficiently, simplif
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=patelhet0507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patelhet0507&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=patelhet0507&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelhet0507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="49%"/>
 
