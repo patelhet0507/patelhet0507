@@ -27,7 +27,7 @@
 
 ## 👋 About Me
 
-I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing Enthusiast**, currently pursuing an **Integrated B.Tech in Computational & Applied Mathematics** (with **M.Tech in Cloud Computing**) at **Adani University**, India.
+I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing Enthusiast**, currently pursuing an **Integrated B.Tech in Computer Science & Applied Mathematics** (with **M.Tech in Cloud Computing**) at **Adani University**, India.
 
 - 🚀 Passionate about turning ideas into real, scalable web applications
 - ☁️ Building toward a strong foundation in cloud infrastructure and deployment
