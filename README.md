@@ -69,7 +69,7 @@ I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing En
 <summary><b>🏠 Rental Management SaaS Platform</b></summary>
 <br/>
 
-**May 2026 – Jun 2026** &nbsp;·&nbsp; Adani University &nbsp;·&nbsp; 🌐 [Live Demo](https://rental-module.firebaseapp.com)
+**May 2026 – Jun 2026** &nbsp;·&nbsp; Adani University &nbsp;·&nbsp; 🌐 [Live Demo](https://rental-module.vercel.app/)
 
 A full-stack, cloud-hosted SaaS platform for property and tenant management — manage properties, tenants, agreements, and billing all from one dashboard.
 
@@ -97,7 +97,7 @@ A full-stack, cloud-hosted SaaS platform for property and tenant management — 
 <summary><b>🛒 ShopEase — Full-Stack E-Commerce Platform</b></summary>
 <br/>
 
-Adani University &nbsp;·&nbsp; 🌐 [Live Demo](https://shop-ease-steel.vercel.app)
+Adani University &nbsp;·&nbsp; 🌐 [Live Demo](https://shop-ease-final.vercel.app)
 
 A production-ready e-commerce application built from the ground up, focused on a seamless shopping experience with an emphasis on performance, scalability, and clean code practices.
 
