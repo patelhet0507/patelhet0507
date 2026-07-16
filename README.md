@@ -14,7 +14,8 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/het-patel-6b2514376)
   [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:patelhet.0507@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/patelhet0507)
-  [![Resume](https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=pdf&logoColor=0D1117)](https://pdftourl.net/files/1784194955194-eb6917eb-9b4b-45ca-a513-4cc511cf6a78.pdf)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portfolio-xi-murex-68.vercel.app/)
+  [![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=pdf&logoColor=00D9FF)](https://pdftourl.net/files/1784194955194-eb6917eb-9b4b-45ca-a513-4cc511cf6a78.pdf)
   
   <br/>
   
@@ -34,7 +35,7 @@ I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing En
 - 📈 Goal-driven, curious learner always exploring new technologies
 - 🌱 Currently focusing on Python frameworks, modern frontend tools, and cloud-native development
 
-**[📄 View Full Resume](https://pdftourl.net/files/1784194955194-eb6917eb-9b4b-45ca-a513-4cc511cf6a78.pdf)**
+**[🌐 View Live Portfolio](https://portfolio-xi-murex-68.vercel.app/)** &nbsp;&nbsp;&nbsp; **[📄 View Full Resume](https://pdftourl.net/files/1784194955194-eb6917eb-9b4b-45ca-a513-4cc511cf6a78.pdf)**
 
 ### 🎯 Open To
 - 💼 Early-stage **Developer Internships**
@@ -225,8 +226,11 @@ Duty allocation and scheduling management system.
   <a href="https://leetcode.com/u/patelhet0507" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D9FF" alt="LeetCode"/>
   </a>
+  <a href="https://portfolio-xi-murex-68.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio"/>
+  </a>
   <a href="https://pdftourl.net/files/1784194955194-eb6917eb-9b4b-45ca-a513-4cc511cf6a78.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-00D9FF?style=for-the-badge&logo=pdf&logoColor=0D1117" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=pdf&logoColor=00D9FF" alt="Resume"/>
   </a>
 </div>
 
