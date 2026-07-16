@@ -14,7 +14,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/het-patel-6b2514376)
   [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:patelhet.0507@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/patelhet0507)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portfolio-xi-murex-68.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)]([https://portfolio-xi-murex-68.vercel.app/](https://portfolio-nine-delta-6pydyq25c1.vercel.app/))
   [![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=pdf&logoColor=00D9FF)](https://pdftourl.net/files/1784194955194-eb6917eb-9b4b-45ca-a513-4cc511cf6a78.pdf)
   
   <br/>
