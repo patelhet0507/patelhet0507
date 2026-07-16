@@ -225,11 +225,11 @@ Duty allocation and scheduling management system.
   <a href="https://leetcode.com/u/patelhet0507" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D9FF" alt="LeetCode"/>
   </a>
-  <a href="https://portfolio-xi-murex-68.vercel.app/" target="_blank">
+  <a href="https://portfolio-nine-delta-6pydyq25c1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio"/>
   </a>
-  <a href="https://pdftourl.net/files/1784194955194-eb6917eb-9b4b-45ca-a513-4cc511cf6a78.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=pdf&logoColor=00D9FF" alt="Resume"/>
+  <a href="https://pdftourl.net/files/1784200742195-66ecb573-3435-45c4-aa7a-0cfb704ec254.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D9FF" alt="Resume"/>
   </a>
 </div>
 
