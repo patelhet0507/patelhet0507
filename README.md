@@ -64,7 +64,7 @@ I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing En
 
 ### 🏠 Rental Management SaaS Platform
 **May 2026 – Jun 2026** · Adani University  
-[Live Demo](https://rental-module.vercel.app/)
+[Live Demo](https://www.rentalease.co.in/)
 
 Full-stack cloud-hosted SaaS for property and tenant management.
 
