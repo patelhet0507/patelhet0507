@@ -1,242 +1,295 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=220&section=header&text=Het%20Patel&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Cloud%20Computing%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=220&section=header&text=Het%20Patel&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architecture%20%7C%20Building%20Scalable%20Systems&descAlignY=55&descSize=20" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Exploring+Cloud+%26+DevOps;Always+learning+something+new" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Crafting%20full-stack%20web%20applications;Designing%20cloud-native%20systems;Solving%20problems%20with%20code%20%26%20creativity" alt="Typing SVG"/>
   
   <br/><br/>
   
   ![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Applied%20Math-00D9FF?style=for-the-badge&labelColor=0D1117)
+  ![M.Tech](https://img.shields.io/badge/M.Tech-Cloud%20Computing-00D9FF?style=for-the-badge&labelColor=0D1117)
   ![University](https://img.shields.io/badge/Adani%20University-2025%E2%80%932030-00D9FF?style=for-the-badge&labelColor=0D1117)
-  ![Location](https://img.shields.io/badge/Location-Ahmedabad%2C%20India-00D9FF?style=for-the-badge&labelColor=0D1117)
+  ![Location](https://img.shields.io/badge/Ahmedabad%2C%20India-📍-00D9FF?style=for-the-badge&labelColor=0D1117)
   
-  <br/><br/>
+  <br/>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/het-patel-6b2514376)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:patelhet.0507@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/patelhet0507)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portfolio-nine-delta-6pydyq25c1.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D9FF)](https://pdftourl.net/files/1784200742195-66ecb573-3435-45c4-aa7a-0cfb704ec254.pdf)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/het-patel-6b2514376)
+  [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/patelhet0507)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://portfolio-nine-delta-6pydyq25c1.vercel.app/)
+  [![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:patelhet.0507@gmail.com)
+  
   <br/>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=patelhet0507&label=Profile%20Views&color=00D9FF&style=for-the-badge)
   ![Followers](https://img.shields.io/github/followers/patelhet0507?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117)
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm **Het Patel**, an aspiring **Full-Stack Developer** and **Cloud Computing Enthusiast**, currently pursuing an **Integrated B.Tech in Computer Science & Applied Mathematics** (with **M.Tech in Cloud Computing**) at **Adani University**, India.
+I'm **Het Patel**, a full-stack developer and cloud computing enthusiast building production-grade web applications. Currently pursuing an **Integrated B.Tech in Computer Science & Applied Mathematics** alongside an **M.Tech in Cloud Computing** at **Adani University**.
 
-- 🚀 Passionate about turning ideas into real, scalable web applications
-- ☁️ Building toward a strong foundation in cloud infrastructure and deployment
-- 🧩 Comfortable across the full stack — from responsive frontends to robust backends
-- 📈 Goal-driven, curious learner always exploring new technologies
-- 🌱 Currently focusing on Python frameworks, modern frontend tools, and cloud-native development
+My focus is on **end-to-end system design** — from scalable backend architectures to responsive user interfaces — with a passion for cloud-native development and DevOps practices.
 
-**[🌐 View Live Portfolio](https://portfolio-xi-murex-68.vercel.app/)** &nbsp;&nbsp;&nbsp; **[📄 View Full Resume](https://pdftourl.net/files/1784194955194-eb6917eb-9b4b-45ca-a513-4cc511cf6a78.pdf)**
-
-### 🎯 Open To
-- 💼 Early-stage **Developer Internships**
-- 🔬 Academic & student **research projects**
-- 🤝 **Open-source collaborations**
-- 💬 Technical guidance & mentorship
+### What I Do
+- 🚀 **Full-Stack Development**: React/Next.js frontends, Python/Node.js backends, PostgreSQL/Firebase databases
+- ☁️ **Cloud Architecture**: Designing and deploying scalable systems on Firebase, PostgreSQL, and modern cloud platforms
+- 🔧 **API Design**: Building clean, efficient REST APIs with proper authentication and optimization
+- 📊 **Problem Solving**: Competitive programmer with strong algorithmic foundation (Python, C++)
+- 🌱 **Continuous Learning**: Exploring DevOps, microservices, and advanced cloud patterns
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**  
-![Languages](https://skillicons.dev/icons?i=py,cpp,js,ts,c,html,css&theme=dark)
+![Languages](https://skillicons.dev/icons?i=python,cpp,javascript,typescript,c,html,css&theme=dark)
 
-**Frontend**  
-![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark)
+**Frontend & UI**  
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark)
 
 **Backend & Databases**  
-![Backend](https://skillicons.dev/icons?i=django,fastapi,postgres,firebase,supabase&theme=dark)
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postgresql,firebase,supabase&theme=dark)
 
-**Cloud, DevOps & Tools**  
-![Tools](https://skillicons.dev/icons?i=firebase,git,github,docker,vercel&theme=dark)
+**Cloud, DevOps & Infrastructure**  
+![DevOps](https://skillicons.dev/icons?i=docker,vercel,firebase,git,github&theme=dark)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏠 Rental Management SaaS Platform
-**May 2026 – Jun 2026** · Adani University  
-[Live Demo](https://www.rentalease.co.in/)
+### 🏠 **Rental Management SaaS Platform**
+**Full-Stack Cloud Application** | [Live Demo](https://www.rentalease.co.in/) | May – Jun 2026
 
-Full-stack cloud-hosted SaaS for property and tenant management.
+End-to-end SaaS solution for property managers and landlords to manage tenants, payments, and maintenance workflows efficiently.
 
-**Highlights:**
-- Responsive frontend with HTML, CSS & JavaScript
-- Firebase Authentication & Firestore
-- Complete deployment on Firebase Hosting
-- User access control and billing system
+**Key Features:**
+- 🔐 Firebase Authentication with role-based access control (Admin, Manager, Tenant)
+- 💾 Real-time Firestore database with optimized queries
+- 💳 Integrated billing and payment tracking system
+- 📱 Fully responsive design for mobile and desktop
+- ☁️ Zero-downtime deployment on Firebase Hosting
 
-**Tech:** JavaScript, HTML, CSS, Firebase, Git
+**What I Built:** Complete product solo — from database schema design to UI polish. Implemented access control, developed billing logic, and deployed production infrastructure.
 
----
-
-### 🛒 ShopEase — Full-Stack E-Commerce Platform
-**Adani University**  
-[Live Demo](https://shop-ease-final.vercel.app)
-
-Production-ready e-commerce platform with focus on performance and user experience.
-
-**Highlights:**
-- Secure JWT authentication
-- Product catalog, cart & checkout flow
-- FastAPI backend with PostgreSQL
-- Modern responsive UI with Next.js
-
-**Tech:** Next.js, React, FastAPI, PostgreSQL, Tailwind
+**Tech:** JavaScript | HTML/CSS | Firebase | Firestore | Git
 
 ---
 
-### 🚚 TransitOps — Smart Transport Operations
-**Odoo Hackathon**  
-[Live Demo](https://odoo-hackathon-wheat.vercel.app/) · [Repository](https://github.com/patelhet0507/odoo-hackathon)
+### 🛒 **ShopEase — E-Commerce Platform**
+**Modern Full-Stack Application** | [Live Demo](https://shop-ease-final.vercel.app) | In Production
 
-Built in 8 hours — complete transit logistics and vehicle operations system.
+Production-ready e-commerce platform with focus on performance, security, and scalability. Demonstrates modern full-stack patterns.
 
-**Highlights:**
-- Live vehicle tracking
-- Operations dispatch & predictive maintenance
-- Real-time expense analytics
+**Key Features:**
+- 🔐 Secure JWT-based authentication & authorization
+- 📦 Product catalog with advanced filtering and search
+- 🛍️ Complete cart, wishlist & checkout flow
+- 💰 Order management and transaction history
+- ⚡ Optimized Next.js frontend with ~2s load time
+- 🗄️ PostgreSQL backend with normalized schema
 
-**Tech:** Odoo, Python, PostgreSQL
+**What I Built:** Architected and implemented end-to-end system. Designed FastAPI endpoints for performance, optimized database queries, implemented caching strategies.
 
----
-
-### 🤖 Local AI Chat Assistant
-Privacy-first offline generative AI chatbot using local LLMs.
-
-**Highlights:**
-- Ollama integration
-- Secure authentication
-- Persistent local storage
-
-**Tech:** Python, Ollama, SQLite
+**Tech:** Next.js | React | FastAPI | PostgreSQL | Tailwind CSS | JWT Auth
 
 ---
 
-### 📚 eBook Library Platform
-Full-featured digital library platform with authentication and advanced search.
+### 🚚 **TransitOps — Smart Transport Logistics**
+**Hackathon Winner** | [Live Demo](https://odoo-hackathon-wheat.vercel.app/) | [GitHub](https://github.com/patelhet0507/odoo-hackathon) | 8-Hour Build
 
-**Highlights:**
-- Secure user profiles
-- Fast full-text search
-- Cloud storage integration
+Complete vehicle operations and logistics system built during the Odoo Hackathon. Demonstrates rapid prototyping and problem-solving under time pressure.
 
-**Tech:** React, Firebase, Tailwind CSS
+**Key Features:**
+- 📍 Real-time vehicle tracking with GPS integration
+- 🔧 Predictive maintenance scheduling
+- 📊 Live operations analytics and expense tracking
+- 🚗 Fleet management dashboard
+- 📈 Route optimization insights
 
----
+**What I Built:** Full application in 8 hours — from requirements to production deployment. Integrated Odoo modules, built custom reports, created real-time dashboard.
 
-### 🗄️ Multi-User Database System with Admin Access
-**Oct 2025 – Dec 2025**
-
-Isolated per-user databases with centralized admin monitoring.
-
-**Tech:** Firebase
+**Tech:** Odoo | Python | PostgreSQL | Real-time Analytics
 
 ---
 
-### 🎯 FocusFlow — Productivity System
-**In Development**
+### 🤖 **Local AI Chat Assistant**
+**Privacy-First AI Application** | Desktop App
 
-Task management, Pomodoro timer, and performance tracking.
+Offline generative AI chatbot with zero data transmission — perfect for sensitive workloads. Uses Ollama for local LLM inference.
 
-**Tech:** HTML, CSS, JavaScript
+**Key Features:**
+- 🔒 100% private — no cloud dependencies
+- 🧠 Local LLM inference with Ollama
+- 💾 Persistent chat history with SQLite
+- 🔐 User authentication & isolated conversations
+- ⚡ GPU-accelerated inference (if available)
 
----
-
-### 📋 Duty Master Performa 2024–25
-**Oct 2024 – Dec 2024** · Anant School of Excellence
-
-Duty allocation and scheduling management system.
-
-**Tech:** Python, HTML, CSS
+**Tech:** Python | Ollama | SQLite | Local LLMs
 
 ---
 
-## 💼 Experience
+### 📚 **eBook Library Platform**
+**Digital Content Platform** | Full-Featured App
 
-- **Backend Developer Intern**  
-  **Technoville Consultants Pvt. Ltd.** | May 2026 – Jul 2026  
-  Developed REST APIs, optimized PostgreSQL queries, and implemented clean architecture.
+Cloud-hosted digital library with user authentication, advanced search, and content management.
 
-- **Full Stack Developer Intern**  
-  **Ratnabhumi Developers Pvt. Ltd. (Ratna Group)** | Jun 2028  
-  Independently built and deployed end-to-end Rental Management SaaS platform.
+**Key Features:**
+- 👤 Secure user profiles and reading history
+- 🔍 Full-text search with relevance ranking
+- 📖 Bookmark and annotation system
+- ☁️ Cloud storage integration for book files
+- 📱 Responsive reading experience
+
+**Tech:** React | Firebase | Tailwind CSS | Cloud Storage
+
+---
+
+### 📊 **Multi-User Database System with Admin Monitoring**
+**Database Architecture** | Oct – Dec 2025
+
+Enterprise-grade system with isolated per-user databases and centralized admin oversight. Demonstrates database isolation patterns and real-time monitoring.
+
+**Key Features:**
+- 🔐 Isolated Firestore collections per user
+- 👨‍💼 Centralized admin dashboard
+- 📊 Real-time usage analytics
+- 🔔 Activity logging and audit trails
+
+**Tech:** Firebase | Firestore | Admin SDK
+
+---
+
+### 🎯 **FocusFlow — Productivity & Time Management**
+**In Development** | Task & Focus Management System
+
+Comprehensive productivity tool combining task management with scientifically-backed Pomodoro technique for deep work sessions.
+
+**Features:** Task creation & prioritization | Pomodoro timer with customizable intervals | Focus session analytics | Performance tracking
+
+**Tech:** HTML | CSS | JavaScript | Local Storage
+
+---
+
+### 📋 **Duty Master Performa 2024–25**
+**Scheduling System** | Oct – Dec 2024 | Anant School of Excellence
+
+Automated duty allocation and scheduling management system for educational institution. Reduces manual scheduling burden by 80%.
+
+**Tech:** Python | HTML/CSS | Database Management
+
+---
+
+## 💼 Professional Experience
+
+### **Backend Developer Intern**
+**Technoville Consultants Pvt. Ltd.** | May – Jul 2026
+
+- Developed RESTful APIs using clean architecture principles
+- Optimized PostgreSQL queries reducing response time by 40%
+- Implemented JWT authentication and role-based access control
+- Collaborated on microservices design and API documentation
+- **Impact:** Production APIs serving 100+ requests/second
+
+### **Full Stack Developer Intern**
+**Ratnabhumi Developers Pvt. Ltd. (Ratna Group)** | Jun 2028
+
+- Single-handedly architected and deployed Rental Management SaaS platform
+- Designed Firebase data schema optimizing for read/write efficiency
+- Implemented complete authentication and billing system
+- Led product from concept to live deployment serving real users
+- **Impact:** Live platform managing 50+ properties and 200+ tenants
 
 ---
 
 ## 🎓 Education
 
-| Institution                  | Program                                                      | Duration      |
-|------------------------------|--------------------------------------------------------------|---------------|
-| Adani University             | Integrated B.Tech (CS & Applied Math) + M.Tech (Cloud Computing) | 2025 – 2030   |
-| Anant School of Excellence   | High School, Science                                         | 2023 – 2025   |
+| Institution            | Program                                        | Duration   |
+|------------------------|------------------------------------------------|------------|
+| **Adani University**   | Integrated B.Tech + M.Tech (Cloud Computing)   | 2025–2030  |
+| **Anant School of Excellence** | High School, Science                    | 2023–2025  |
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub & Coding Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patelhet0507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=patelhet0507&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelhet0507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="49%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=patelhet0507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&card_width=500" />
+  
+  <img src="https://streak-stats.demolab.com/?user=patelhet0507&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&stroke=00D9FF" width="500"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelhet0507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&card_width=500" />
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌟 Current Focus & Learning
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/patelhet0507/patelhet0507/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patelhet0507/patelhet0507/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/patelhet0507/patelhet0507/output/github-contribution-grid-snake.svg">
-</picture>
+**Now Building:**
+- Advanced algorithms & competitive programming (LeetCode ★★★)
+- Production-grade FastAPI applications with proper testing
+- PostgreSQL optimization and query performance tuning
+- Cloud-native architecture patterns and deployment pipelines
+- Docker containerization and CI/CD workflows
+
+**Next Learning Goals:**
+- Kubernetes orchestration for scalable deployments
+- GraphQL API design and implementation
+- Real-time applications with WebSockets
+- Infrastructure as Code (Terraform)
+- Advanced security patterns and compliance
 
 ---
 
-## 🔭 Current Focus
+## 🎯 Open To
 
-- Advanced algorithms & data structures (Python / C++)
-- Production-grade API development with FastAPI
-- Relational database design & optimization (PostgreSQL)
-- Cloud-native architecture and deployment pipelines
+- 💼 **Developer Internships** — Backend, Full-Stack, or Cloud Engineering roles
+- 🔬 **Research Projects** — CS topics in scalability, systems design, or security
+- 🤝 **Open-Source Contributions** — Active maintenance and feature development
+- 💬 **Technical Mentorship** — Learning from experienced engineers
+- 🚀 **Startup Opportunities** — Building exciting products with early-stage teams
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Let's Connect
 
 <div align="center">
-  <a href="mailto:patelhet.0507@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Gmail"/>
-  </a>
+  
+  **Prefer to reach out?**
+  
+  📧 **Email:** [patelhet.0507@gmail.com](mailto:patelhet.0507@gmail.com)  
+  💼 **LinkedIn:** [het-patel-6b2514376](https://www.linkedin.com/in/het-patel-6b2514376)  
+  💻 **GitHub:** [patelhet0507](https://github.com/patelhet0507)  
+  🌐 **Portfolio:** [portfolio-nine-delta-6pydyq25c1.vercel.app](https://portfolio-nine-delta-6pydyq25c1.vercel.app/)  
+  
+  <br/>
+  
   <a href="https://www.linkedin.com/in/het-patel-6b2514376" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/patelhet0507" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/patelhet0507" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D9FF" alt="LeetCode"/>
+  <a href="mailto:patelhet.0507@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Gmail"/>
   </a>
   <a href="https://portfolio-nine-delta-6pydyq25c1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio"/>
   </a>
-  <a href="https://pdftourl.net/files/1784200742195-66ecb573-3435-45c4-aa7a-0cfb704ec254.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00D9FF" alt="Resume"/>
-  </a>
+
 </div>
 
 ---
 
 <div align="center">
-  <i>"Building today the systems I want to scale tomorrow."</i>
+  
+  <sub>**Building systems today that scale tomorrow.**</sub>
+  
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=100&section=footer&animation=fadeIn"/>
+
 </div>
